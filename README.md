@@ -1,4 +1,6 @@
 # curso
 Repo del curso de microservicios
 
-Comentario 1
+sudo apt-get update
+wget -qO- https://get.docker.com/ | sh
+sudo gpasswd -a ${USER} docker
